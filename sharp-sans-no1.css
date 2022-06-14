@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sharp Sans No1';
+    src: url('https://github.com/notrickjohnston/sharp-sans-no1/raw/main/SharpSansNo1-Semibold.woff2') format('woff2');
+    font-weight: 773;
+    font-style: semibold;
+}
+
+@font-face {
+    font-family: 'Sharp Sans No1';
+    src: url('https://github.com/notrickjohnston/sharp-sans-no1/raw/main/SharpSansNo1-Bold.woff2') format('woff2');
+    font-weight: 775;
+    font-style: bold;
+}
